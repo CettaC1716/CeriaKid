@@ -1,0 +1,6 @@
+{
+  "name": "MerdekaKids — Belajar, Menggambar & Bermain Bersama Cincau",
+  "description": "Aplikasi edukasi interaktif Kurikulum Merdeka SD bersama sahabat petualang Budi. Buku interaktif bersuara Mengenal Flora & Fauna, Kanvas Menggambar Pena Pintar, dan Petualangan 8 Bioma Pulau CeriaKids.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
